@@ -1,0 +1,894 @@
+('C:\\Users\\Abhay Singh\\Documents\\Pyproject\\Summer '
+ 'training\\build\\book_reader\\PYZ-00.pyz',
+ [('inspect',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('pyttsx3',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\pyttsx3\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.sapi5',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\pyttsx3\\drivers\\sapi5.py',
+   'PYMODULE'),
+  ('pyttsx3.voice',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\pyttsx3\\voice.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('comtypes.gen.SpeechLib',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\gen\\SpeechLib.py',
+   'PYMODULE'),
+  ('comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\gen\\_C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.py',
+   'PYMODULE'),
+  ('comtypes.typeinfo',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\typeinfo.py',
+   'PYMODULE'),
+  ('comtypes.automation',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\automation.py',
+   'PYMODULE'),
+  ('comtypes.safearray',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\safearray.py',
+   'PYMODULE'),
+  ('comtypes.client.dynamic',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\client\\dynamic.py',
+   'PYMODULE'),
+  ('comtypes.client.lazybind',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\client\\lazybind.py',
+   'PYMODULE'),
+  ('comtypes._safearray',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\_safearray.py',
+   'PYMODULE'),
+  ('comtypes.npsupport',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\npsupport.py',
+   'PYMODULE'),
+  ('comtypes.patcher',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\patcher.py',
+   'PYMODULE'),
+  ('comtypes.hresult',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\hresult.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('comtypes.GUID',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\GUID.py',
+   'PYMODULE'),
+  ('comtypes',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\__init__.py',
+   'PYMODULE'),
+  ('comtypes._meta',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\_meta.py',
+   'PYMODULE'),
+  ('comtypes._comobject',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\_comobject.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('comtypes.errorinfo',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\errorinfo.py',
+   'PYMODULE'),
+  ('comtypes.server',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\server\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\tools\\codegenerator.py',
+   'PYMODULE'),
+  ('comtypes.tools.tlbparser',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\tools\\tlbparser.py',
+   'PYMODULE'),
+  ('comtypes.persist',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\persist.py',
+   'PYMODULE'),
+  ('comtypes.client._code_cache',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\client\\_code_cache.py',
+   'PYMODULE'),
+  ('comtypes.client._generate',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\client\\_generate.py',
+   'PYMODULE'),
+  ('comtypes.tools.typedesc',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\tools\\typedesc.py',
+   'PYMODULE'),
+  ('comtypes.tools.typedesc_base',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\tools\\typedesc_base.py',
+   'PYMODULE'),
+  ('comtypes.tools',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\tools\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.messageloop',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\messageloop.py',
+   'PYMODULE'),
+  ('comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\gen\\_00020430_0000_0000_C000_000000000046_0_2_0.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('comtypes.gen',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\gen\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.client',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\client\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.client._events',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\client\\_events.py',
+   'PYMODULE'),
+  ('comtypes.connectionpoints',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\comtypes\\connectionpoints.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.dummy',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\pyttsx3\\drivers\\dummy.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\pyttsx3\\drivers\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.six',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\pyttsx3\\six.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('pyttsx3.engine',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\pyttsx3\\engine.py',
+   'PYMODULE'),
+  ('pyttsx3.driver',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\pyttsx3\\driver.py',
+   'PYMODULE'),
+  ('pytesseract',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\pytesseract\\__init__.py',
+   'PYMODULE'),
+  ('pytesseract.pytesseract',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\pytesseract\\pytesseract.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\abhay '
+   'singh\\documents\\pyproject\\venv\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Abhay '
+   'Singh\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\__init__.py',
+   'PYMODULE')])
